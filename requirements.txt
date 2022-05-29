@@ -1,4 +1,4 @@
-hello.py
-numpy
-pandas
-pillow
+# hello.py
+# numpy
+# pandas
+# pillow
